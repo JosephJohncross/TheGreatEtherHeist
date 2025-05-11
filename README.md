@@ -1,7 +1,7 @@
 # TheGreatEtherHeist
 
 ### Self-Destruct Contract Address: 0x014dc8bec4b0e03898c4789494b81414467a52f0ebc60acf3e307a8f5041205d
-### whitelisted wallet address: 0xdD05a90117572dc948500be5a1bf7a0cB9462143
+### Whitelisted wallet address: 0xdD05a90117572dc948500be5a1bf7a0cB9462143
 
 
 ## Report
